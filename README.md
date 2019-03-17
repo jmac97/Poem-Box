@@ -7,7 +7,7 @@ poem.ino was the code that was used for this project. parm.ino was based on this
 
 Pictures, video, and more info: https://mceldoon.wixsite.com/juliem/poem-box
 
-##BOM (abbreviated):
+## BOM (abbreviated):
   * Wooden box from Michael's
   * Arduino Pro Trinket 5V (adafruit)
   * Metal LED button (sparkfun)
