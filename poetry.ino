@@ -1,7 +1,5 @@
 #include "Adafruit_Thermal.h"
-
 #include "SoftwareSerial.h"
-
 #include <avr/pgmspace.h>
 
 #define TX_PIN 11 // Arduino transmit labeled RX on printer
