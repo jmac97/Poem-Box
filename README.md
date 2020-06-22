@@ -8,8 +8,6 @@ By pressing the glowing button at the top, the box randomly selects one of the s
 
 poem.ino was the code that was used for this project. parm.ino was based on this code and was created for a gift. Instead of poems, it prints a pauris from the Japji Sahib.
 
-More pictures and videos can be found [here](https://mceldoon.wixsite.com/juliem).
-
 ## BOM:
 * Arduino Pro Trinket
 * LED pushbutton
